@@ -1,2 +1,2 @@
 # tensorflow_related
-There are a series of codes created when I learn tensorflow.
+There are a series of codes created when I learned tensorflow.
